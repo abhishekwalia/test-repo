@@ -1,6 +1,0 @@
-DOWNLOAD:
-http://code.google.com/p/msysgit/downloads/list
-
-
-STEPS TO INSTALL:
-http://help.github.com/win-set-up-git/
